@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ashok Aryal!</h1>
 
 <p align="center">
-  <strong>Data Analyst | Software Developer | Python • SQL • Power BI</strong><br/>
+  <strong> Software Developer </strong><br/>
   Turning Data into Insights & Building Scalable Solutions 📊💻
 </p>
 
